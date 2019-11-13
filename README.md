@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-By Chris Black
+A demo project, by Chris Black for DMIT2018
